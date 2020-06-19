@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bt5CBVssAankm21sT+I4k99mJbzFpfBKmSsVNyPGzcVe6dil0SZcb8n9oEzHRFMoHISTn21J8RwGZ08OArg/kw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kailashnadh.mamidi\\Downloads\\OpenTextAssessment\\OpenTextAssessment\\OpenTextAssessment.Objects\\OpenTextAssessment.Objects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kailashnadh.mamidi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

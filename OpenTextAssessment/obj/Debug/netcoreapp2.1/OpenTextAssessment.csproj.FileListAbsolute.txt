@@ -1,0 +1,12 @@
+C:\Users\lincoln.dudeja1\Downloads\OpenTextAssessment\OpenTextAssessment\OpenTextAssessment\bin\Debug\netcoreapp2.1\OpenTextAssessment.deps.json
+C:\Users\lincoln.dudeja1\Downloads\OpenTextAssessment\OpenTextAssessment\OpenTextAssessment\bin\Debug\netcoreapp2.1\OpenTextAssessment.runtimeconfig.json
+C:\Users\lincoln.dudeja1\Downloads\OpenTextAssessment\OpenTextAssessment\OpenTextAssessment\bin\Debug\netcoreapp2.1\OpenTextAssessment.runtimeconfig.dev.json
+C:\Users\lincoln.dudeja1\Downloads\OpenTextAssessment\OpenTextAssessment\OpenTextAssessment\bin\Debug\netcoreapp2.1\OpenTextAssessment.dll
+C:\Users\lincoln.dudeja1\Downloads\OpenTextAssessment\OpenTextAssessment\OpenTextAssessment\bin\Debug\netcoreapp2.1\OpenTextAssessment.pdb
+C:\Users\lincoln.dudeja1\Downloads\OpenTextAssessment\OpenTextAssessment\OpenTextAssessment\obj\Debug\netcoreapp2.1\OpenTextAssessment.csprojAssemblyReference.cache
+C:\Users\lincoln.dudeja1\Downloads\OpenTextAssessment\OpenTextAssessment\OpenTextAssessment\obj\Debug\netcoreapp2.1\OpenTextAssessment.csproj.CoreCompileInputs.cache
+C:\Users\lincoln.dudeja1\Downloads\OpenTextAssessment\OpenTextAssessment\OpenTextAssessment\obj\Debug\netcoreapp2.1\OpenTextAssessment.AssemblyInfoInputs.cache
+C:\Users\lincoln.dudeja1\Downloads\OpenTextAssessment\OpenTextAssessment\OpenTextAssessment\obj\Debug\netcoreapp2.1\OpenTextAssessment.AssemblyInfo.cs
+C:\Users\lincoln.dudeja1\Downloads\OpenTextAssessment\OpenTextAssessment\OpenTextAssessment\obj\Debug\netcoreapp2.1\OpenTextAssessment.dll
+C:\Users\lincoln.dudeja1\Downloads\OpenTextAssessment\OpenTextAssessment\OpenTextAssessment\obj\Debug\netcoreapp2.1\OpenTextAssessment.pdb
+C:\Users\lincoln.dudeja1\Downloads\OpenTextAssessment\OpenTextAssessment\OpenTextAssessment\obj\Debug\netcoreapp2.1\OpenTextAssessment.genruntimeconfig.cache
